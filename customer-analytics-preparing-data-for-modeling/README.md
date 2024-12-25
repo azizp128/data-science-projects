@@ -39,5 +39,5 @@ The Head Data Scientist at *Training Data Ltd.* has asked you to create a Data
 If you call `.info()` or `.memory_usage()` methods on `ds_jobs` and `ds_jobs_transformed` after you've preprocessed it, you should notice a substantial decrease in memory usage.
 
 # Solution
-- [Jupyter Notebook](customer-analytics-preparing-data-for-modeling\notebook.ipynb)
-- [Microsoft Excel Workbook](customer-analytics-preparing-data-for-modeling\workbook.xlsx)
+- [Jupyter Notebook](notebook.ipynb)
+- [Microsoft Excel Workbook](workbook.xlsx)
