@@ -29,5 +29,5 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 - Count the number of short action movies from the 1990s.
 
 # Solution
-- [Jupyter Notebook](investigating-netflix-movies/notebook.ipynb)
-- [Microsoft Excel Workbook](investigating-netflix-movies/workbook.xlsx)
+- [Jupyter Notebook](notebook.ipynb)
+- [Microsoft Excel Workbook](workbook.xlsx)
