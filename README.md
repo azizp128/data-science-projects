@@ -2,6 +2,7 @@
 - [Analisis Waktu Posting Paling Populer di Reddit terkait Konflik Israel-Palestina](analisis-jam-posting/README.md)
 - [Investigating Netflix Movies](investigating-netflix-movies/README.md)
 - [Exploring NYC Public School Test Result Scores](exploring-nyc-public-school-test-result-scores/README.md)
+- [Customer Analytics: Preparing Data for Modeling](customer-analytics-preparing-data-for-modeling/README.md)
 
 # Machine Learning & Deep Learning
 - [Prediksi Emosi IndoBERT](https://github.com/azizp128/prediksi-emosi-indobert)
