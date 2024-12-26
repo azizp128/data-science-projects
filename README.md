@@ -3,6 +3,7 @@
 - [Investigating Netflix Movies](investigating-netflix-movies/README.md)
 - [Exploring NYC Public School Test Result Scores](exploring-nyc-public-school-test-result-scores/README.md)
 - [Customer Analytics: Preparing Data for Modeling](customer-analytics-preparing-data-for-modeling/README.md)
+- [Visualizing the History of Nobel Prize Winners](a-visual-history-of-nobel-prize-winners/README.md)
 
 # Machine Learning & Deep Learning
 - [Prediksi Emosi IndoBERT](https://github.com/azizp128/prediksi-emosi-indobert)
