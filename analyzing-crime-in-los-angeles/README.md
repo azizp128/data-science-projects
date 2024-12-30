@@ -9,6 +9,10 @@ They have provided you with a single dataset to use. It is a modified version of
 
 In this project, you'll serve as a data detective, supporting the Los Angeles Police Department (LAPD) in analyzing crime data to guide how they should allocate resources to protect the people of their city!
 
+> [!NOTE]  
+> The project inspiration comes from DataCamp’s [Analyzing Crime in Los Angeles](https://app.datacamp.com/learn/projects/1876) project, which served as the foundation for this work.
+> All code and insights in this project are my own.
+
 # Dataset
 They have provided you with a single dataset to use. A summary and preview are provided below.
 

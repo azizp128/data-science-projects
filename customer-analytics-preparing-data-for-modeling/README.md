@@ -5,6 +5,10 @@ You've been hired by a major online data science training provider called *Train
 
 You've been given access to `customer_train.csv`, which is a subset of their entire customer dataset, so you can create a proof-of-concept of a much more efficient storage solution.
 
+> [!NOTE]  
+> The project inspiration comes from DataCamp’s [Customer Analytics: Preparing Data for Modeling](https://app.datacamp.com/learn/projects/1600) project, which served as the foundation for this work.
+> All code and insights in this project are my own.
+
 # Dataset
 ### **customer_train.csv**
 The dataset contains anonymized student information, and whether they were looking for a new job or not during training:

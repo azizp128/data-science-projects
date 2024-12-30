@@ -7,6 +7,10 @@ You have been provided with a dataset called `schools.csv`, which is previewed b
 
 You have been tasked with answering three key questions about New York City (NYC) public school SAT performance.
 
+> [!NOTE]  
+> The project inspiration comes from DataCamp’s [Exploring NYC Public School Test Result Scores](https://app.datacamp.com/learn/projects/exploring_nyc_public_school_test_result_scores/) project, which served as the foundation for this work.
+> All code and insights in this project are my own.
+
 # Dataset
 ### **schools.csv**
 

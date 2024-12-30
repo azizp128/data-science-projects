@@ -7,6 +7,10 @@ You work for a production company that specializes in nostalgic styles. You want
 
 You have been supplied with the dataset `netflix_data.csv`, along with the following table detailing the column names and descriptions. Feel free to experiment further after submitting!
 
+> [!NOTE]  
+> The project inspiration comes from DataCamp’s [Investigating Netflix Movies](https://app.datacamp.com/learn/projects/investigating_netflix) project, which served as the foundation for this work.
+> All code and insights in this project are my own.
+
 # Dataset
 ### **netflix_data.csv**
 | Column | Description |

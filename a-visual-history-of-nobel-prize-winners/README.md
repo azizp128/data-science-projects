@@ -5,6 +5,10 @@ Well, let's find out! What characteristics do the prize winners have? Which coun
 
 The [**dataset**](https://www.kaggle.com/nobelfoundation/nobel-laureates) used in this project is from The Nobel Foundation on Kaggle.
 
+> [!NOTE]  
+> The project inspiration comes from DataCamp’s [Visualizing the History of Nobel Prize Winners](https://app.datacamp.com/learn/projects/441) project, which served as the foundation for this work.
+> All code and insights in this project are my own.
+
 # Dataset
 ### **nobel.csv**
 | Column                  | Description                                                                                              |

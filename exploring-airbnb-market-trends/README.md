@@ -1,6 +1,10 @@
 # Project Description
 Welcome to New York City, one of the most-visited cities in the world. There are many Airbnb listings in New York City to meet the high demand for temporary lodging for travelers, which can be anywhere between a few nights to many months. In this project, we will take a closer look at the New York Airbnb market by combining data from multiple file types like `.csv`, `.tsv`, and `.xlsx`.
 
+> [!NOTE]  
+> The project inspiration comes from DataCamp’s [Exploring Airbnb Market Trends](https://app.datacamp.com/learn/projects/1589) project, which served as the foundation for this work.
+> All code and insights in this project are my own.
+
 # Dataset
 Recall that **CSV**, **TSV**, and **Excel** files are three common formats for storing data. 
 Three files containing data on 2019 Airbnb listings are available to you:
