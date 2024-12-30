@@ -1,6 +1,12 @@
 # Project Description
 Los Angeles, California, attracts people from all over the world, offering lots of opportunities, not always of the good kind!
 
+Known for its warm weather, palm trees, sprawling coastline, and Hollywood, along with producing some of the most iconic films and songs. However, as with any highly populated city, it isn't always glamorous and there can be a large volume of crime. That's where you can help!
+
+You have been asked to support the Los Angeles Police Department (LAPD) by analyzing crime data to identify patterns in criminal behavior. They plan to use your insights to allocate resources effectively to tackle various crimes in different areas.
+
+They have provided you with a single dataset to use. It is a modified version of the original data, which is publicly available from Los Angeles Open Data.
+
 In this project, you'll serve as a data detective, supporting the Los Angeles Police Department (LAPD) in analyzing crime data to guide how they should allocate resources to protect the people of their city!
 
 # Dataset
