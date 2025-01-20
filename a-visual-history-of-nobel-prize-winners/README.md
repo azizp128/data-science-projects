@@ -42,3 +42,22 @@ Analyze Nobel Prize winner data and identify patterns by answering the following
 
 # Solution
 - [Jupyter Notebook](new-version/notebook.ipynb)
+
+# Findings
+- **Most Commonly Awarded Gender and Birth Country**
+    - **Gender:** The majority of Nobel Prize winners are male, with **905 male laureates** recorded.
+    - **Birth Country:** The **United States of America** leads as the most commonly awarded birth country, with **291 laureates** originating from there.
+- **Decade with the Highest Ratio of US-Born Winners to Total Winners**
+    - The **2000s** emerged as the decade with the highest proportion of US-born Nobel Prize winners compared to total laureates across all categories.
+- **Decade and Category with the Highest Proportion of Female Laureates**
+    - In the **2020s**, the **Literature** category recorded the highest proportion of female laureates among all category-decade combinations.
+- **First Woman to Receive a Nobel Prize**
+    - The first woman to be awarded a Nobel Prize was **Marie Curie (née Sklodowska)**. She received the prize in the category of **Physics**.
+- **Individuals and Organizations with Multiple Nobel Prizes**
+    - The list of individuals and organizations that have won more than one Nobel Prize are
+        - 'Frederick Sanger'
+        - 'John Bardeen'
+        - 'Linus Carl Pauling'
+        - 'Marie Curie, née Sklodowska'
+        - 'Comité international de la Croix Rouge (International Committee of the Red Cross)'
+        - 'Office of the United Nations High Commissioner for Refugees (UNHCR)'
