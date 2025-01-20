@@ -1,5 +1,5 @@
 # Links
-- [Link to the article](https://blog.azizprabowo.social/data-science/analisis-waktu-posting-paling-populer-di-reddit-terkait-konflik-israel-palestina)
+- [Link to the article](https://blog.azizprabowo.com/data-science/analisis-waktu-posting-paling-populer-di-reddit-terkait-konflik-israel-palestina)
 - [Dataset on Kaggle](https://www.kaggle.com/datasets/asaniczka/reddit-on-israel-palestine-daily-updated)
 - [Jupyter Notebook on Kaggle](https://www.kaggle.com/code/azizp123/most-pop-posting-hours-to-determine-the-auths-loc)
 - [Local Jupyter Notebook File](jam-posting.ipynb)
