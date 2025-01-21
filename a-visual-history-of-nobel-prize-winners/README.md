@@ -51,6 +51,7 @@ Analyze Nobel Prize winner data and identify patterns by answering the following
       ![Birth Country](new-version/charts/birth_country.png)
 - **Decade with the Highest Ratio of US-Born Winners to Total Winners**
     - The **2000s** emerged as the decade with the highest proportion of US-born Nobel Prize winners compared to total laureates across all categories.
+
       ![Highest Ratio](new-version/charts/highest_ratio.png)
 - **Decade and Category with the Highest Proportion of Female Laureates**
     - In the **2020s**, the **Literature** category recorded the highest proportion of female laureates among all category-decade combinations.
