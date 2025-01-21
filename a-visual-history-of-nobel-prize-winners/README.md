@@ -61,10 +61,10 @@ Analyze Nobel Prize winner data and identify patterns by answering the following
       ![First Woman to Receive a Nobel Prize](new-version/charts/first_female_laureates.png)
 - **Individuals and Organizations with Multiple Nobel Prizes**
     - The list of individuals and organizations that have won more than one Nobel Prize are
-        - 'Frederick Sanger'
-        - 'John Bardeen'
-        - 'Linus Carl Pauling'
-        - 'Marie Curie, née Sklodowska'
-        - 'Comité international de la Croix Rouge (International Committee of the Red Cross)'
-        - 'Office of the United Nations High Commissioner for Refugees (UNHCR)'
+        - Frederick Sanger
+        - John Bardeen
+        - Linus Carl Pauling
+        - Marie Curie, née Sklodowska
+        - Comité international de la Croix Rouge (International Committee of the Red Cross)
+        - Office of the United Nations High Commissioner for Refugees (UNHCR)
       ![Individuals and Organizations with Multiple Nobel Prizes](new-version/charts/repeat_winners.png)
