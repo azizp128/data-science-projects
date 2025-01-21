@@ -46,8 +46,10 @@ Analyze Nobel Prize winner data and identify patterns by answering the following
 # Findings
 - **Most Commonly Awarded Gender and Birth Country**
     - **Gender:** The majority of Nobel Prize winners are male, with **905 male laureates** recorded.
+      
       ![Gender](new-version/charts/gender.png)
     - **Birth Country:** The **United States of America** leads as the most commonly awarded birth country, with **291 laureates** originating from there.
+      
       ![Birth Country](new-version/charts/birth_country.png)
 - **Decade with the Highest Ratio of US-Born Winners to Total Winners**
     - The **2000s** emerged as the decade with the highest proportion of US-born Nobel Prize winners compared to total laureates across all categories.
@@ -55,9 +57,11 @@ Analyze Nobel Prize winner data and identify patterns by answering the following
       ![Highest Ratio](new-version/charts/highest_ratio.png)
 - **Decade and Category with the Highest Proportion of Female Laureates**
     - In the **2020s**, the **Literature** category recorded the highest proportion of female laureates among all category-decade combinations.
+      
       ![Female Ratio](new-version/charts/female_ratio.png)
 - **First Woman to Receive a Nobel Prize**
     - The first woman to be awarded a Nobel Prize was **Marie Curie (née Sklodowska)**. She received the prize in the category of **Physics**.
+      
       ![First Woman to Receive a Nobel Prize](new-version/charts/first_female_laureates.png)
 - **Individuals and Organizations with Multiple Nobel Prizes**
     - The list of individuals and organizations that have won more than one Nobel Prize are
@@ -67,4 +71,5 @@ Analyze Nobel Prize winner data and identify patterns by answering the following
         - Marie Curie, née Sklodowska
         - Comité international de la Croix Rouge (International Committee of the Red Cross)
         - Office of the United Nations High Commissioner for Refugees (UNHCR)
-      ![Individuals and Organizations with Multiple Nobel Prizes](new-version/charts/repeat_winners.png)
+      
+    ![Individuals and Organizations with Multiple Nobel Prizes](new-version/charts/repeat_winners.png)
