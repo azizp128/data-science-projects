@@ -41,6 +41,6 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
     - The most frequent movie duration for films released in the 1990s was 94 minutes.
     - From the graph below, we can observe that the distribution of movie durations in this decade follows a **normal distribution** with a bell curve shape. The majority of movies tend to have durations ranging from **80** to **120** minutes, with the distribution being **centered around this range**.
 
-    ![Movie Durations Distribution](charts/movie_durations_distribution.png)
+        ![Movie Durations Distribution](charts/movie_durations_distribution.png)
 - Count the number of short action movies from the 1990s.
     - There were 7 short action movies (with a duration of less than 90 minutes) released in the 1990s.
