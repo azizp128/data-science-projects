@@ -37,16 +37,16 @@ You have been tasked with answering three key questions about New York City (NYC
 - Which NYC schools have the best math results?
     - There are 10 schools that have the best math scores in New York City, with all scores exceeding the threshold of 640 (0.8 * 800). These schools represents some of the best performers in New York City's educational landscape, with exceptional math scores.
 
-    ![Top Schools By AVG Maths Score](charts/top_schools_by_avg_math_scores.png)
+        ![Top Schools By AVG Maths Score](charts/top_schools_by_avg_math_scores.png)
 - What are the top 10 performing schools based on the combined SAT scores?
     - **Consistent Top Performers**: Three schools (Stuyvesant High School, Bronx High School of Science and Staten Island Technical High School) consistently rank at the top in both math and combined SAT scores, demonstrating strong performance across both areas.
     - **New Entrant in SAT Scores**: Bard High School Early College stands out as a new addition to the top 10 based on combined SAT scores, despite not ranking highly in math scores. This suggests that Bard High School Early College excels in the reading and writing sections of the SAT.
     - **Reading/Writing Strength**: Some schools, such as High School of American Studies at Lehman College and Townsend Harris High School, perform well in combined SAT scores despite having lower math scores. This highlights that strong performance in the verbal and writing sections can help offset lower math results.
 
-    ![Top 10 Schools By SAT Score](charts/top_10_schools_by_sat_scores.png)
+        ![Top 10 Schools By SAT Score](charts/top_10_schools_by_sat_scores.png)
 - Which single borough has the largest standard deviation in the combined SAT score?
     - **Manhattan** has the highest standard deviation in combined SAT scores of **230.29**, indicating a diverse performance range across its schools.
     - This high standard deviation suggests that the schools in Manhattan have a wide range of SAT scores. Some schools perform significantly better than others, leading to this variability.
     - This could indicate that some schools in Manhattan are top performers with very high SAT scores, while others are performing below average, creating a larger spread in scores. It suggests that the educational performance in Manhattan's schools is not uniform.
 
-    ![Borough With Highest STD SAT Score](charts/borough_highest_std_sat_score.png)
+        ![Borough With Highest STD SAT Score](charts/borough_highest_std_sat_score.png)
