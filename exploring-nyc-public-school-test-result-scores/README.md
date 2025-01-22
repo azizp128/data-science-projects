@@ -51,4 +51,4 @@ You have been tasked with answering three key questions about New York City (NYC
     - This high standard deviation suggests that the schools in Manhattan have a wide range of SAT scores. Some schools perform significantly better than others, leading to this variability.
 
         ![Manhattan's SAT ](charts/sat_distribution_manhattan.png)
-    - This could indicate that some schools in Manhattan are top performers with very high SAT scores, while others are performing below average, creating a larger spread in scores. It suggests that the educational performance in Manhattan's schools is not uniform.        
+    - This indicate that some schools in Manhattan are top performers with very high SAT scores, while others are performing below average, creating a larger spread in scores. It suggests that the educational performance in Manhattan's schools is not uniform.        
