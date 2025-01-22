@@ -46,7 +46,9 @@ You have been tasked with answering three key questions about New York City (NYC
         ![Top 10 Schools By SAT Score](charts/top_10_schools_by_sat_scores.png)
 - Which single borough has the largest standard deviation in the combined SAT score?
     - **Manhattan** has the highest standard deviation in combined SAT scores of **230.29**, indicating a diverse performance range across its schools.
-    - This high standard deviation suggests that the schools in Manhattan have a wide range of SAT scores. Some schools perform significantly better than others, leading to this variability.
-    - This could indicate that some schools in Manhattan are top performers with very high SAT scores, while others are performing below average, creating a larger spread in scores. It suggests that the educational performance in Manhattan's schools is not uniform.
 
         ![Borough With Highest STD SAT Score](charts/borough_highest_std_sat_score.png)
+    - This high standard deviation suggests that the schools in Manhattan have a wide range of SAT scores. Some schools perform significantly better than others, leading to this variability.
+
+        ![Manhattan's SAT ](charts/sat_distribution_manhattan.png)
+    - This could indicate that some schools in Manhattan are top performers with very high SAT scores, while others are performing below average, creating a larger spread in scores. It suggests that the educational performance in Manhattan's schools is not uniform.        
