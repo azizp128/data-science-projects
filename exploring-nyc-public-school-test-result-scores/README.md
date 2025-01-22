@@ -39,7 +39,7 @@ You have been tasked with answering three key questions about New York City (NYC
 
         ![Top Schools By AVG Maths Score](charts/top_schools_by_avg_math_scores.png)
 - What are the top 10 performing schools based on the combined SAT scores?
-    - **Consistent Top Performers**: Three schools (Stuyvesant High School, Bronx High School of Science and Staten Island Technical High School) consistently rank at the top in both math and combined SAT scores, demonstrating strong performance across both areas.
+    - **Consistent Top Performers**: Three schools (Stuyvesant High School, Bronx High School of Science, and Staten Island Technical High School) consistently rank at the top in both math and combined SAT scores, demonstrating strong performance across both areas.
     - **New Entrant in SAT Scores**: Bard High School Early College stands out as a new addition to the top 10 based on combined SAT scores, despite not ranking highly in math scores. This suggests that Bard High School Early College excels in the reading and writing sections of the SAT.
     - **Reading/Writing Strength**: Some schools, such as High School of American Studies at Lehman College and Townsend Harris High School, perform well in combined SAT scores despite having lower math scores. This highlights that strong performance in the verbal and writing sections can help offset lower math results.
 
