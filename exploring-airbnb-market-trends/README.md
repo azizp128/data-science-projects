@@ -35,4 +35,4 @@ As a consultant working for a real estate start-up, you have collected Airbnb li
 - Combine the new variables into one DataFrame
 
 # Solution
-- [Jupyter Notebook](notebook.ipynb)
+- [Jupyter Notebook](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/exploring-airbnb-market-trends/notebook.ipynb)

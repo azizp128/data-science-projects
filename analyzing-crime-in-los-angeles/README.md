@@ -41,19 +41,19 @@ Explore the ***crimes.csv*** dataset and use your findings to answer the follo
 - Identify the number of crimes committed against victims of different age groups.
 
 # Solution
-- [Jupyter Notebook](notebook.ipynb)
+- [Jupyter Notebook](https://raw.githubusercontent.com/azizp128/data-science-projects/main/analyzing-crime-in-los-angeles/notebook.ipynb)
 
 # Findings
 - Which hour has the highest frequency of crimes?
     - The analysis shows that **12 PM** has the highest frequency of crimes, with a total of **13,663** cases recorded. This suggests that crimes are most frequent during midday, indicating potential patterns or behaviors associated with this time.
 
-        ![Crime Peak Hours](charts/crime_peak_hours.png)
+        ![Crime Peak Hours](https://raw.githubusercontent.com/azizp128/data-science-projects/main/analyzing-crime-in-los-angeles/charts/crime_peak_hours.png)
 - Which area has the largest frequency of night crimes (crimes committed between 10:00 PM and 03:59 AM)?
     - The area **Central** experienced the largest frequency of night crimes, specifically those committed between **10:00 PM** and **3:59 AM**. A total of **3,312** crime cases were recorded in this time frame, highlighting **Central** as a hotspot for crimes during the night hours.
         
-        ![Night Crime Frequency By Area](charts/freq_night_crime_area.png)
+        ![Night Crime Frequency By Area](https://raw.githubusercontent.com/azizp128/data-science-projects/main/analyzing-crime-in-los-angeles/charts/freq_night_crime_area.png)
 - Identify the number of crimes committed against victims of different age groups.
     - The age group **26-34** has the highest number of crimes committed against victims, with a total of **47,470** recorded crime cases. This indicates that individuals within this age group are more likely to be involved as victims compared to others.
 
-        ![Crime By Victim Age Group](charts/crimes_by_victim_age_group.png)
+        ![Crime By Victim Age Group](https://raw.githubusercontent.com/azizp128/data-science-projects/main/analyzing-crime-in-los-angeles/charts/crimes_by_victim_age_group.png)
         
