@@ -30,7 +30,7 @@ You have been tasked with answering three key questions about New York City (NYC
 - Which single borough has the largest standard deviation in the combined SAT score?
 
 # Solution
-- [Jupyter Notebook](https://raw.githubusercontent.com/azizp128/data-science-projects/main/exploring-nyc-public-school-test-result-scores/notebook.ipynb)
+- [Jupyter Notebook](https://github.com/azizp128/data-science-projects/blob/main/exploring-nyc-public-school-test-result-scores/notebook.ipynb)
 - [Microsoft Excel Workbook](https://raw.githubusercontent.com/azizp128/data-science-projects/main/exploring-nyc-public-school-test-result-scores/workbook.xlsx)
 
 # Findings
