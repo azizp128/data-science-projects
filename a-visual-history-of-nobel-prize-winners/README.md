@@ -41,7 +41,7 @@ Analyze Nobel Prize winner data and identify patterns by answering the following
 - Which individuals or organizations have won more than one Nobel Prize throughout the years?
 
 # Solution
-- [Jupyter Notebook](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/a-visual-history-of-nobel-prize-winners/new-version/notebook.ipynb)
+- [Jupyter Notebook](https://github.com/azizp128/data-science-projects/blob/main/a-visual-history-of-nobel-prize-winners/new-version/notebook.ipynb)
 
 # Findings
 - **Most Commonly Awarded Gender and Birth Country**
