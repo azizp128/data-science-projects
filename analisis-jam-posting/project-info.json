@@ -1,5 +1,5 @@
 {
-    "title": "Analyze Most Popular Posting Times to Determine Author Location",
+    "title": "Analyze Most Popular Posting Times to Determine The Author's Location",
     "description": "In this project, I analyzed a dataset of public opinion data on the Israel-Palestine conflict from Reddit, sourced from Kaggle. The primary focus was on determining the most popular posting times, which could provide insights into the geographical location of authors. Using Seaborn for visualizations and Tableau for interactive dashboards, I identified key trends and patterns in posting activity. The findings were compiled into a detailed article and published on Gitbook, making the insights easily accessible to a wide audience.",
     "thumbnail": "https://media.npr.org/assets/img/2023/10/26/gettyimages-1238754440-c45f815180314ce9e90a3cfebdd3330a17f86c10.jpg",
     "readme": "https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/analisis-jam-posting/README.md"
