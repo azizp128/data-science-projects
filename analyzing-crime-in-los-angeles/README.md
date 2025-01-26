@@ -41,7 +41,7 @@ Explore the ***crimes.csv*** dataset and use your findings to answer the follo
 - Identify the number of crimes committed against victims of different age groups.
 
 # Solution
-- [Jupyter Notebook](https://raw.githubusercontent.com/azizp128/data-science-projects/main/analyzing-crime-in-los-angeles/notebook.ipynb)
+- [Jupyter Notebook](https://github.com/azizp128/data-science-projects/blob/main/analyzing-crime-in-los-angeles/notebook.ipynb)
 
 # Findings
 - Which hour has the highest frequency of crimes?
