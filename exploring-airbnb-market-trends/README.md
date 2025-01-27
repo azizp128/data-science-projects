@@ -41,13 +41,15 @@ As a consultant working for a real estate start-up, you have collected Airbnb li
 - Earliest and Most Recent Reviews
     - The earliest review in the dataset was on **2019-01-01**, and the most recent review occurred on **2019-07-09**. These dates were visualized on a heatmap to highlight the review distribution.
 
-
+        ![Earliest And Recent Dates](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/exploring-airbnb-market-trends/charts/earliest_recent_dates.png)
 - Private Room Listings
     - There are **11,356** listings for **private rooms**, with the majority of listings categorized as **entire home/apt** (**13,266**) and **shared rooms** (**587**).
 
-
-
+        ![Room Type Frequencies](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/exploring-airbnb-market-trends/charts/listing_freq.png)
 - Average Listing Price
-    - The price distribution is right-skewed, with most listings priced at the lower end. A few high-priced listings cause the average price to be **$141.78**, higher than the median price of **$105**. This suggests that while many listings are affordable, the presence of luxury or overpriced properties may distort the overall pricing trend. Potential outliers, such as a **$0** minimum price and a **$7,500** maximum, warrant further investigation.
+    - The price distribution is right-skewed, with most listings priced at the lower end. A few high-priced listings cause the average price to be **$141.78**, higher than the median price of **$105**. This suggests that while many listings are affordable, the presence of luxury or overpriced properties may distort the overall pricing trend.
 
-        
+        ![Historagm of Listing Price Distribution](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/exploring-airbnb-market-trends/charts/listing_price_dist_hist.png)
+    - Additionally, there are potential outliers in the data, including a **$0** minimum price and a **$7,500** maximum price, which should be further examined.
+      
+        ![Box Plot of Listing Price Distribution](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/exploring-airbnb-market-trends/charts/listing_price_dist_box_plot.png)
