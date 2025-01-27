@@ -47,9 +47,9 @@ As a consultant working for a real estate start-up, you have collected Airbnb li
 
         ![Room Type Frequencies](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/exploring-airbnb-market-trends/charts/listing_freq.png)
 - Average Listing Price
-    - The price distribution is right-skewed, with most listings priced at the lower end. A few high-priced listings cause the average price to be **$141.78**, higher than the median price of **$105**. This suggests that while many listings are affordable, the presence of luxury or overpriced properties may distort the overall pricing trend.
+    - The price distribution is right-skewed, with most listings priced at the lower end. A few high-priced listings cause the average price to be $**141.78**, higher than the median price of $**105**. This suggests that while many listings are affordable, the presence of luxury or overpriced properties may distort the overall pricing trend.
 
         ![Historagm of Listing Price Distribution](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/exploring-airbnb-market-trends/charts/listing_price_dist_hist.png)
-    - Additionally, there are potential outliers in the data, including a **$0** minimum price and a **$7,500** maximum price, which should be further examined.
+    - Additionally, there are potential outliers in the data, including a $**0** minimum price and a $**7,500** maximum price, which should be further examined.
       
         ![Box Plot of Listing Price Distribution](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/exploring-airbnb-market-trends/charts/listing_price_dist_box_plot.png)
