@@ -3,9 +3,9 @@
 - [Visualizing the History of Nobel Prize Winners](a-visual-history-of-nobel-prize-winners/README.md)
 - [Exploring NYC Public School Test Result Scores](exploring-nyc-public-school-test-result-scores/README.md)
 - [Analyzing Crime in Los Angeles](analyzing-crime-in-los-angeles/README.md)
+- [Exploring Airbnb Market Trends](exploring-airbnb-market-trends/README.md)
 - [Investigating Netflix Movies](investigating-netflix-movies/README.md)
 - [Customer Analytics: Preparing Data for Modeling](customer-analytics-preparing-data-for-modeling/README.md)
-- [Exploring Airbnb Market Trends](exploring-airbnb-market-trends/README.md)
 
 # Machine Learning & Deep Learning
 - [Prediksi Emosi IndoBERT](https://github.com/azizp128/prediksi-emosi-indobert)
