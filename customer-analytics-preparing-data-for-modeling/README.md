@@ -50,14 +50,14 @@ If you call `.info()` or `.memory_usage()` methods on `ds_jobs` and `ds_j
 - Memory usage before data type transformation
     - Column Details
 
-        ![Dataframe Information Before Transformation](images/df_info_before_transformations.png)
+        ![Dataframe Information Before Transformation](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/customer-analytics-preparing-data-for-modeling/images/df_info_before_transformations.png)
     - Memory usage of each column in bytes
 
-        ![Memory Usage Before Transformation](images/mem_b4.png)
+        ![Memory Usage Before Transformation](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/customer-analytics-preparing-data-for-modeling/images/mem_b4.png)
 - Memory usage after data type transformation
     - Column Details
 
-        ![Dataframe Information After Transformation](images/df_info_after_transformations.png)
+        ![Dataframe Information After Transformation](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/customer-analytics-preparing-data-for-modeling/images/df_info_after_transformations.png)
     - Memory usage of each column in bytes
 
-        ![Memory Usage After Transformation](images/mem_after.png)
+        ![Memory Usage After Transformation](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/customer-analytics-preparing-data-for-modeling/images/mem_after.png)
