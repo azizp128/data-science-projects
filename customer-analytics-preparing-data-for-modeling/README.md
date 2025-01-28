@@ -45,3 +45,19 @@ If you call `.info()` or `.memory_usage()` methods on `ds_jobs` and `ds_j
 # Solution
 - [Jupyter Notebook](https://github.com/azizp128/data-science-projects/blob/main/customer-analytics-preparing-data-for-modeling/notebook.ipynb)
 - [Microsoft Excel Workbook](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/customer-analytics-preparing-data-for-modeling/workbook.xlsx)
+
+# Findings
+- Memory usage before data type transformation
+    - Columns' information
+
+        ![Dataframe Information Before Transformation](images/df_info_before_transformations.png)
+    - Memory usages of each column in bytes
+
+        ![Memory Usage Before Transformation](images/mem_b4.png)
+- Memory usage after data type transformation
+    - Columns' information
+
+        ![Dataframe Information After Transformation](images/df_info_after_transformations.png)
+    - Memory usages of each column in bytes
+
+        ![Memory Usage After Transformation](images/mem_after.png)
