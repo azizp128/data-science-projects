@@ -48,14 +48,14 @@ If you call `.info()` or `.memory_usage()` methods on `ds_jobs` and `ds_j
 
 # Findings
 - Memory usage before data type transformation
-    - Columns' information
+    - Column Details
 
         ![Dataframe Information Before Transformation](images/df_info_before_transformations.png)
     - Memory usages of each column in bytes
 
         ![Memory Usage Before Transformation](images/mem_b4.png)
 - Memory usage after data type transformation
-    - Columns' information
+    - Column Details
 
         ![Dataframe Information After Transformation](images/df_info_after_transformations.png)
     - Memory usages of each column in bytes
