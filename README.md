@@ -1,7 +1,6 @@
 # Data Analysis
 - [Analisis Waktu Posting Paling Populer di Reddit terkait Konflik Israel-Palestina](analisis-jam-posting/README.md)
 - [Visualizing the History of Nobel Prize Winners](a-visual-history-of-nobel-prize-winners/README.md)
-- [Predicting Movie Rental Durations](predicting-movie-rental-durations/README.md)
 - [Exploring NYC Public School Test Result Scores](exploring-nyc-public-school-test-result-scores/README.md)
 - [Analyzing Crime in Los Angeles](analyzing-crime-in-los-angeles/README.md)
 - [Exploring Airbnb Market Trends](exploring-airbnb-market-trends/README.md)
@@ -9,6 +8,7 @@
 - [Customer Analytics: Preparing Data for Modeling](customer-analytics-preparing-data-for-modeling/README.md)
 
 # Machine Learning & Deep Learning
+- [Predicting Movie Rental Durations](predicting-movie-rental-durations/README.md)
 - [Prediksi Emosi IndoBERT](https://github.com/azizp128/prediksi-emosi-indobert)
 - [Analisis Sentimen Bahasa Jawa Ngoko Lugu IndoBERT](https://github.com/azizp128/analisis-sentimen-bahasa-jawa-indobert)
 - [Income Prediction](https://github.com/azizp128/income-prediction-flask)
