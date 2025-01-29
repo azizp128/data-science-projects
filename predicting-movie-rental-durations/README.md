@@ -33,24 +33,22 @@ A DVD rental company needs your help! They want to figure out how many days a cu
 - R-Squared: **0.732**
     - **73%** of the variation in movie rental durations is explained by the model. The remaining **27%** is unexplained and may be due to unaccounted factors or random variation.
 
-    ![R-Squared Value]()
 - Mean Squared Error: **1.91**
     - The model's predictions, on average, are off by **1.91 days**, which is about **73%** of the rental duration's standard deviation (**2.64**). This suggests reasonable predictions but leaves room for improvement.
 
-    ![Mean Squared Error Value]()
 - Residual Plot
     - The residuals show a structured pattern rather than random scatter, indicating potential model issues like missing features or non-linearity. The model may not fully capture the relationship in the data.
 
-    ![Residual Plot]()
+        ![Residual Plot](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/predicting-movie-rental-durations/charts/residual_plot.png)
 - Actual vs. Predicted Plot
     - The model captures the general trend but struggles with precise predictions, particularly for higher rental lengths. There is significant vertical dispersion, meaning some predictions are over or under-estimated.
 
-    ![Actual vs. Predicted Plot]()
+        ![Actual vs. Predicted Plot](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/predicting-movie-rental-durations/charts/actual_vs_predicted.png)
 - Distribution of Residuals
     - The residuals are approximately normally distributed, with a slight right skew, suggesting underprediction. Some large residuals (outliers) indicate occasional large prediction errors.
 
-    ![Distribution of Residuals]()
+        ![Distribution of Residuals](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/predicting-movie-rental-durations/charts/distribution_of_residuals.png)
 - Feature Importance
     - The features `amount` and `rental_rate` have the highest importance scores, contributing significantly to the model’s predictions. These features are key drivers in explaining rental duration.
 
-    ![Feature Importance]()
+        ![Feature Importance](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/predicting-movie-rental-durations/charts/feature_importance.png)
