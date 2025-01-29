@@ -1,6 +1,7 @@
 # Data Analysis
 - [Analisis Waktu Posting Paling Populer di Reddit terkait Konflik Israel-Palestina](analisis-jam-posting/README.md)
 - [Visualizing the History of Nobel Prize Winners](a-visual-history-of-nobel-prize-winners/README.md)
+- [Predicting Movie Rental Durations](predicting-movie-rental-durations/README.md)
 - [Exploring NYC Public School Test Result Scores](exploring-nyc-public-school-test-result-scores/README.md)
 - [Analyzing Crime in Los Angeles](analyzing-crime-in-los-angeles/README.md)
 - [Exploring Airbnb Market Trends](exploring-airbnb-market-trends/README.md)
