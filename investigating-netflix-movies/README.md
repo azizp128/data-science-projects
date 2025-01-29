@@ -34,7 +34,7 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 
 # Solution
 - [Jupyter Notebook](https://github.com/azizp128/data-science-projects/blob/main/investigating-netflix-movies/notebook.ipynb)
-- [Microsoft Excel Workbook](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/investigating-netflix-movies/netflix_data.csv)
+- [Microsoft Excel Workbook](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/investigating-netflix-movies/workbook.xlsx)
 
 # Findings
 - Find the most frequent movie duration.
