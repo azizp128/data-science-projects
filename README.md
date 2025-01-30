@@ -9,6 +9,7 @@
 
 # Machine Learning & Deep Learning
 - [Predicting Movie Rental Durations](predicting-movie-rental-durations/README.md)
+- [Predicting Credit Card Approvals](predicting-credit-card-approvals/README.md)
 - [Prediksi Emosi IndoBERT](https://github.com/azizp128/prediksi-emosi-indobert)
 - [Analisis Sentimen Bahasa Jawa Ngoko Lugu IndoBERT](https://github.com/azizp128/analisis-sentimen-bahasa-jawa-indobert)
 - [Income Prediction](https://github.com/azizp128/income-prediction-flask)
