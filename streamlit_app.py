@@ -147,7 +147,7 @@ if st.session_state["selected_project"] is None:
         row = idx // cols_per_row
         col = idx % cols_per_row
         with columns[row][col]:
-            with st.container(border=True):  # Use container to ensure consistent height
+            with st.container(border=True, height=600):  # Use container to ensure consistent height
                 # Display the resized thumbnail image
                 image_data = project["thumbnail"]
                 image = Image.open(image_data)
