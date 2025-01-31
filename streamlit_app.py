@@ -147,15 +147,23 @@ if st.session_state["selected_project"] is None:
         row = idx // cols_per_row
         col = idx % cols_per_row
         with columns[row][col]:
-            # Display the resized thumbnail image with a fixed width
-            image_data = project["thumbnail"]
-            image = Image.open(image_data)
-            resized_image = resize_image(image)  # Resize to desired width and height
-            st.image(resized_image, width=300)  # Only set width since we resized already
-            st.markdown(f"### {project['title']}")
-            st.markdown(project["description"])
-            if st.button("View Project", key=f"view_project_{idx}"):
-                st.session_state["selected_project"] = project
+            with st.container():  # Use container to ensure consistent height
+                # Display the resized thumbnail image
+                image_data = project["thumbnail"]
+                image = Image.open(image_data)
+                resized_image = resize_image(image)
+                st.image(resized_image, width=300)
+
+                # Title and description
+                st.markdown(f"### {project['title']}")
+                st.markdown(project["description"])
+
+                # Ensure the button is at the bottom
+                st.write("")  # Adds flexible space
+
+                # Button at the bottom
+                if st.button("View Project", key=f"view_project_{idx}"):
+                    st.session_state["selected_project"] = project
 else:
     # Display the selected project's README.md
     project = st.session_state["selected_project"]
