@@ -1,0 +1,6 @@
+{
+    "title": "Car Purchase Decision Django",
+    "description": "This repository contains the source code for a Django web application that helps users make car purchasing decisions. The application uses a Decision Tree classification model to predict whether a person can afford a car based on certain variables such as age, gender, and annual income. The user can input the values ​​of the above features to predict whether the user can afford a car or not.",
+    "thumbnail": "https://i0.wp.com/bestsellingcarsblog.com/wp-content/uploads/2021/12/Buy-new-car.jpg",
+    "readme": "https://raw.githubusercontent.com/azizp128/Car-Purchase-Decision-Django/refs/heads/main/README.md"
+}

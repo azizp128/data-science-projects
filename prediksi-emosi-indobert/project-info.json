@@ -1,0 +1,6 @@
+{
+    "title": "Prediksi Emosi IndoBERT",
+    "description": "Model analisis sentimen berbasis IndoBERT yang dapat memprediksi 6 jenis emosi dalam suatu kalimat, yaitu marah, sedih, senang, cinta, takut, dan jijik. Model ini dilatih pada dataset yang diperoleh dari website Twitter/X melalui metode crawling, dan dilakukan proses pelabelan secara manual oleh peneliti.",
+    "thumbnail": "https://www.zonkafeedback.com/hubfs/sentiment%20analysis%20tools.png",
+    "readme": "https://raw.githubusercontent.com/azizp128/prediksi-emosi-indobert/refs/heads/main/README.md"
+}
