@@ -17,7 +17,7 @@ def is_url(path):
     return bool(parsed.scheme) and parsed.scheme in ["http", "https"]
 
 # Function to resize images to specific width and height
-def resize_image(image, new_width=300, new_height=200):
+def resize_image(image, new_width=330, new_height=200):
     resized_image = image.resize((new_width, new_height))  # Resize both width and height
     return resized_image
 
@@ -152,7 +152,7 @@ if st.session_state["selected_project"] is None:
                 image_data = project["thumbnail"]
                 image = Image.open(image_data)
                 resized_image = resize_image(image)
-                st.image(resized_image, width=300)
+                st.image(resized_image, width=330)
 
                 # Title and description
                 st.markdown(f"### {project['title']}")
