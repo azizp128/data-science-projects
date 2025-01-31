@@ -2,5 +2,6 @@
     "title": "Predicting Movie Rental Durations",
     "description": "A DVD rental company has approached you to make a regression model which will help predict the number of days a customer rents a DVD. The model will hopefully make their inventory planning much more efficient. You decide to help them by running some regression models and recommending the best-performing model to the company.",
     "thumbnail": "https://c8.alamy.com/comp/ACARGC/dvd-rental-store-ACARGC.jpg",
-    "readme": "https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/predicting-movie-rental-durations/README.md"
+    "readme": "https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/predicting-movie-rental-durations/README.md",
+    "category": "Machine Learning"
 }
