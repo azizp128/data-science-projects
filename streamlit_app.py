@@ -6,6 +6,7 @@ import requests
 from urllib.parse import urlparse
 from PIL import Image
 from io import BytesIO
+# import warnings
 
 # Define the directory containing project folders
 project_dir = "./"  # Replace with the correct path
@@ -17,7 +18,7 @@ def is_url(path):
 
 
 def resize_image(image, new_width=330, new_height=200):
-    resized_image = image.resize((new_width, new_height))  # Resize both width and height
+    resized_image = image.resize((new_width, new_height))
     return resized_image
 
 
@@ -35,11 +36,11 @@ def load_projects(directory):
                 try:
                     with open(metadata_path, "r") as f:
                         metadata = json.load(f)
-                        
+
                         if "category" not in metadata:
                             metadata["category"] = "uncategorized"  # Default to uncategorized if not found
 
-                        # Process the thumbnail URL or local image as before
+                        # Process the thumbnail URL or local image
                         if is_url(metadata["thumbnail"]):
                             response = requests.get(metadata["thumbnail"])
                             if response.status_code == 200:
@@ -62,7 +63,7 @@ def load_projects(directory):
                                 metadata["thumbnail"] = buffer
                             else:
                                 st.error(f"Local thumbnail not found: {local_thumbnail_path}")
-                        
+
                         metadata["base_path"] = project_path
                         projects.append(metadata)
                 except json.JSONDecodeError:
@@ -96,7 +97,7 @@ def preprocess_readme(content, base_path):
 
     content = re.sub(image_pattern, lambda match: fix_path(normalized_base_path, match), content)
     content = re.sub(link_pattern, lambda match: fix_path(normalized_base_path, match), content)
-    
+
     return content
 
 
@@ -113,9 +114,35 @@ def fetch_readme_from_url(url):
 # Load project data
 projects = load_projects(project_dir)
 
-# Sidebar for category selection
-categories = list(set([project["category"] for project in projects]))  # Get unique categories
-selected_category = st.sidebar.selectbox("Select a Category", ["All"] + categories)
+# -------------------------------
+# Dynamic URL: Query Parameters for Category
+# -------------------------------
+
+# Retrieve query parameters using st.query_params
+query_params = st.query_params
+default_category = query_params.get("category", "All")
+
+# Get unique categories from projects
+categories = list(set([project["category"] for project in projects]))
+sidebar_options = ["All"] + categories
+
+# Determine the default index for the selectbox based on query parameters.
+try:
+    default_index = sidebar_options.index(default_category)
+except ValueError:
+    default_index = 0
+
+# Sidebar for category selection using the default from query parameters
+selected_category = st.sidebar.selectbox("Select a Category", sidebar_options, index=default_index)
+
+# Suppress deprecation warnings
+# warnings.filterwarnings("ignore", category=DeprecationWarning)
+
+# Update the URL's query parameters based on the selection
+if selected_category != "All":
+    st.query_params.update(category=selected_category)
+else:
+    st.query_params.clear()
 
 # Filter projects based on the selected category
 if selected_category != "All":
@@ -134,12 +161,15 @@ if "selected_project" not in st.session_state:
 def go_back():
     st.session_state["selected_project"] = None
 
-
+# -------------------------------
 # Main UI
+# -------------------------------
+
 if st.session_state["selected_project"] is None:
     # Display project grid
     cols_per_row = 2
     rows = (len(filtered_projects) + cols_per_row - 1) // cols_per_row
+    # Create columns for each row
     columns = [st.columns(cols_per_row) for _ in range(rows)]
 
     for idx, project in enumerate(filtered_projects):
@@ -151,10 +181,8 @@ if st.session_state["selected_project"] is None:
                 image = Image.open(image_data)
                 resized_image = resize_image(image)
                 st.image(resized_image, width=330.5)
-
                 st.markdown(f"### {project['title']}")
                 st.markdown(project["description"])
-
                 if st.button("View Project", key=f"view_project_{idx}", use_container_width=True):
                     st.session_state["selected_project"] = project
 else:
