@@ -22,15 +22,20 @@ The data is a small subset of the Credit Card Approval dataset from the UCI Mach
     - Conducted **data profiling** using [ydata-profiling](https://github.com/ydataai/ydata-profiling) to understand dataset characteristics.
     - Cleaned the data by **removing missing values (`?`)**.
     - Performed **Exploratory Data Analysis (EDA)** to analyze numerical feature distributions.
-        ![Distribution Before Log Transformation]()
-    - Addressed **skewed features** in preprocessing to improve model performance.
-        ![Distribution After Log Transformation]()
+
+      ![Distribution Before Log Transformation](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/predicting-credit-card-approvals/images/distribution_1.png)
+    - Addressed **skewed features** in preprocessing using **Log Tranformation** to improve model performance.
+
+      ![Distribution After Log Transformation](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/predicting-credit-card-approvals/images/distribution_2.png)
     - Transformed categorical variables into numerical form using **binary encoding and one-hot encoding**.
 - Model Training & Evaluation
     - Split the dataset into **80% training and 20% testing**, and then using **Cross Validation** for performance evaluation.
     - Used [LazyClassifier](https://lazypredict.readthedocs.io/en/latest/usage.html#classification) for model selection, identifying **LGBMClassifier** as the best model with an **accuracy of 83%**.
     - Evaluated model predictions with a **confusion matrix**, highlighting misclassification patterns.
-        ![Confusion Matrix]()
+
+      ![Confusion Matrix](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/predicting-credit-card-approvals/images/confusion_matrix.png)
+
+      The model **misclassified 57 instances where the False label was predicted as True (False Positives)** and **52 instances where the True label was predicted as False (False Negatives)**.
 - Model Optimization
     - Performed **hyperparameter tuning** using `GridSearchCV`, optimizing key parameters.
     - Achieved a **2% accuracy improvement**, increasing performance from **83% to 85%**.
