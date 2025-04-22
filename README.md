@@ -8,11 +8,13 @@
 - [Investigating Netflix Movies](investigating-netflix-movies/README.md)
 - [Customer Analytics: Preparing Data for Modeling](customer-analytics-preparing-data-for-modeling/README.md)
 
-# Machine Learning & Deep Learning
+# Machine Learning
 - [Predicting Movie Rental Durations](predicting-movie-rental-durations/README.md)
 - [Predicting Credit Card Approvals](predicting-credit-card-approvals/README.md)
-- [Prediksi Emosi IndoBERT](https://github.com/azizp128/prediksi-emosi-indobert)
-- [Analisis Sentimen Bahasa Jawa Ngoko Lugu IndoBERT](https://github.com/azizp128/analisis-sentimen-bahasa-jawa-indobert)
 - [Income Prediction](https://github.com/azizp128/income-prediction-flask)
 - [Car Purchase Decision](https://github.com/azizp128/Car-Purchase-Decision-Django)
 - [Titanic Survival Prediction](https://github.com/azizp128/titanic-survival-prediction-django)
+
+# NLP
+- [Prediksi Emosi IndoBERT](https://github.com/azizp128/prediksi-emosi-indobert)
+- [Analisis Sentimen Bahasa Jawa Ngoko Lugu IndoBERT](https://github.com/azizp128/analisis-sentimen-bahasa-jawa-indobert)
