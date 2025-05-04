@@ -1,6 +1,6 @@
 # Data Analysis
 - [Telco Customer Churn Analysis](https://docs.google.com/presentation/d/1pgEPjTATiOYSCdje7S8HOFDcKOVMgBbICMu2BefwKt0/edit?usp=sharing)
-- [Sales Supplement Analysis](https://docs.google.com/presentation/d/1Gw7qepyeSb50D-SZRzRGSpTDAuB4LW2Kyb6p2Ca0hiM/edit?usp=sharing)
+- [Supplement Sales Analysis](https://docs.google.com/presentation/d/1Gw7qepyeSb50D-SZRzRGSpTDAuB4LW2Kyb6p2Ca0hiM/edit?usp=sharing)
 - [Analisis Waktu Posting Paling Populer di Reddit terkait Konflik Israel-Palestina](analisis-jam-posting/README.md)
 - [Visualizing the History of Nobel Prize Winners](a-visual-history-of-nobel-prize-winners/README.md)
 - [Exploring NYC Public School Test Result Scores](exploring-nyc-public-school-test-result-scores/README.md)
