@@ -1,0 +1,7 @@
+{
+    "title": "Investigating Netflix Movies",
+    "description": "Explore Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade. Take a deep dive into the 1990s movie era, discover production trends, and gain valuable insights into the films that shaped a generation.",
+    "thumbnail": "https://images.ctfassets.net/4cd45et68cgf/4VSxeY3b51YAvrDqnruDPr/9c88e632654f934f9df1da1b561be033/India_-_2022_blog.jpeg?w=2000",
+    "readme": "https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/investigating-netflix-movies/README.md",
+    "category": "Data Analysis"
+}
