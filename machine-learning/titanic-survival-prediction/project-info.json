@@ -1,7 +1,0 @@
-{
-    "title": "Titanic Survival Prediction",
-    "description": "An experiment with machine learning model deployment using the Django framework on Heroku. This project features a simple machine learning model that utilizes the Logistic Regression algorithm to predict the survival of passengers aboard the Titanic.",
-    "thumbnail": "https://asset-2.tstatic.net/aceh/foto/bank/images/titanic_20180415_114612.jpg",
-    "readme": "https://raw.githubusercontent.com/azizp128/titanic-survival-prediction-django/refs/heads/main/README.md",
-    "category": "Machine Learning"
-}
