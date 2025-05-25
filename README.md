@@ -9,7 +9,6 @@
 - [Analyzing Crime in Los Angeles](analyzing-crime-in-los-angeles/README.md)
 - [Exploring Airbnb Market Trends](exploring-airbnb-market-trends/README.md)
 - [Investigating Netflix Movies](investigating-netflix-movies/README.md)
-- [Customer Analytics: Preparing Data for Modeling](customer-analytics-preparing-data-for-modeling/README.md)
 
 # Machine Learning
 - [Categorical Feature Encoding Challenge II](https://www.kaggle.com/code/azizp123/categorical-feature-encoding-challenge-ii)
@@ -17,6 +16,7 @@
 - [Categorical Feature Encoding Challenge](https://www.kaggle.com/code/azizp123/categorical-feature-encoding-challenge-short)
 - [Predicting Credit Card Approvals](predicting-credit-card-approvals/README.md)
 - [Income Prediction](https://github.com/azizp128/income-prediction-flask)
+- [Customer Analytics: Preparing Data for Modeling](customer-analytics-preparing-data-for-modeling/README.md)
 - [Car Purchase Decision](https://github.com/azizp128/Car-Purchase-Decision-Django)
 - [Titanic Survival Prediction](https://github.com/azizp128/titanic-survival-prediction-django)
 
