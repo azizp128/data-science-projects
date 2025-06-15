@@ -11,6 +11,8 @@
 - [Investigating Netflix Movies](investigating-netflix-movies/README.md)
 
 # Machine Learning
+- [Telco Customer Churn Prediction](telco-customer-churn-prediction/notebook.ipynb)
+- [Youtube Channel Views Prediction](youtube-views-prediction/notebook.ipynb)
 - [Categorical Feature Encoding Challenge II](https://www.kaggle.com/code/azizp123/categorical-feature-encoding-challenge-ii)
 - [Predicting Movie Rental Durations](predicting-movie-rental-durations/README.md)
 - [Categorical Feature Encoding Challenge](https://www.kaggle.com/code/azizp123/categorical-feature-encoding-challenge-short)
