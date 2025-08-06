@@ -1,0 +1,85 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background: #f3f4f6;
+  color: #111827;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
+p {
+  margin: 0 0 13px 0;
+}
+
+a {
+  color: #111827;
+}
+
+img {
+  width: 100%;
+  margin: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.container {
+  width: 95%;
+  max-width: 1220px;
+  margin: 0 auto;
+}
+
+.job {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  position: relative;
+}
+
+.number {
+  font-size: 8vw;
+  font-weight: 600;
+  top: 0;
+  text-align: center;
+  height: calc(10vw + 20px);
+  transition: all 0.2s ease-in;
+}
+
+.image {
+  width: 250px;
+}
+
+.content {
+  border-top: 2px solid #111827;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-gap: 10px;
+  padding: 15px 0;
+}
+
+.content .title {
+  font-weight: 900;
+  font-size: 35px;
+}
+
+.content .story {
+  line-height: 45px;
+  font-weight: 30;
+  text-align: justify;
+}
+
+@media (max-width: 600px) {
+  .content {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 576px) {
+  .content .story {
+    font-size: 15px;
+  }
+}
