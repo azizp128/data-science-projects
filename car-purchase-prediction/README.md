@@ -1,50 +1,78 @@
 # Car Purchase Prediction Streamlit App
 
-This repository contains the source code for a Streamlit application that helps users make car purchasing decisions. The application uses a Decision Tree classification model to predict whether a person can afford a car based on certain variables such as age, gender, and annual income. Users can input the values of these features to predict whether they can afford a car or not.
+This repository contains a Streamlit application that helps users make car purchasing decisions. The application uses an XGBoost classification model to predict whether a person can afford a car based on their age, gender, and annual income. If the prediction is positive, it provides car recommendations, and if negative, it suggests potential career paths to increase income.
 
 ## Project Structure
 
 ```
-car-purchase-prediction
-├── src
-│   ├── app.py          # Main entry point for the Streamlit application
-│   └── utils
-│       └── model.py    # Functions for loading the model and making predictions
-├── assets
-│   ├── model
-│   │   ├── car_data.csv # Dataset used for training the model
-│   │   └── model.joblib  # Trained model
-├── requirements.txt     # Project dependencies
-└── README.md            # Project documentation
+car-purchase-prediction/
+├── app.py              # Main Streamlit application
+├── assets/
+│   ├── car-images/    # Images of recommended cars
+│   │   ├── Avanza.png
+│   │   ├── brio.png
+│   │   └── ...
+│   ├── bg.jpg         # Background image
+│   ├── car_data.csv   # Dataset used for training
+│   ├── model.joblib   # Trained XGBoost model
+│   └── notebook.ipynb # Model development notebook
+└── requirements.txt    # Project dependencies
 ```
+
+## Features
+
+- Car purchase prediction using XGBoost classifier
+- Interactive input form for user data
+- Visual car recommendations with images and descriptions
+- Career path suggestions for income improvement
+- Cross-validated model with optimized F1-score and ROC-AUC
+- Responsive Streamlit interface
 
 ## Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/car-purchase-prediction.git
-   cd car-purchase-prediction
-   ```
+```bash
+git clone https://github.com/yourusername/car-purchase-prediction.git
+cd car-purchase-prediction
+```
 
-2. Install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
+2. Create and activate a virtual environment (recommended):
+```bash
+python -m venv venv
+.\venv\Scripts\activate
+```
+
+3. Install the required packages:
+```bash
+pip install -r requirements.txt
+```
 
 ## Running the Application
 
-To run the Streamlit application, use the following command:
-```
-streamlit run src/app.py
+Start the Streamlit application:
+```bash
+streamlit run app.py
 ```
 
-This will start the Streamlit server, and you can access the application in your web browser at `http://localhost:8501`.
+The app will open automatically in your default web browser at `http://localhost:8501`.
 
 ## Usage
 
-- Input your age, gender (1 for female, 0 for male), and annual salary in the provided fields.
-- Click the submit button to see the prediction on whether you can afford a car.
+1. Input your information:
+   - Age (numeric value)
+   - Gender (select Male or Female)
+   - Annual Salary in USD
 
-## License
+2. Click "Predict" to see the results
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+3. Based on the prediction:
+   - If positive: View recommended cars with images and specifications
+   - If negative: Explore suggested career paths with salary information
+
+## Model Details
+
+- Algorithm: XGBoost Classifier
+- Features: Age, Gender, Annual Salary
+- Metrics: Optimized for F1-score and ROC-AUC
+- Validation: 10-fold cross-validation with 3 repeats
+- Training data: 1000 samples with balanced class distribution
