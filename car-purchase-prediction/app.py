@@ -12,8 +12,12 @@ st.set_page_config(
     layout="centered"
 )
 
-# Add image
-st.image("assets/bg.jpg")
+# Add background image
+bg_path = Path(__file__).parent / "assets" / "bg.jpg"
+if bg_path.exists():
+    with open(bg_path, "rb") as f:
+        image_bytes = f.read()
+    st.image(image_bytes)
 
 # Load the model with proper error handling
 @st.cache_resource
