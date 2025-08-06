@@ -28,6 +28,9 @@ car-purchase-prediction/
 - Cross-validated model with optimized F1-score and ROC-AUC
 - Responsive Streamlit interface
 
+## Deployment
+[Car Purchase Prediction Streamlit](https://car-purchase-prediction.streamlit.app/)
+
 ## Installation
 
 1. Clone the repository:
