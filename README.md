@@ -20,7 +20,7 @@
 - [Predicting Credit Card Approvals](predicting-credit-card-approvals/README.md)
 - [Income Prediction](https://github.com/azizp128/income-prediction-flask)
 - [Customer Analytics: Preparing Data for Modeling](customer-analytics-preparing-data-for-modeling/README.md)
-- [Car Purchase Prediction](https://github.com/azizp128/data-science-projects/blob/main/car-purchase-prediction/README.md)
+- [Car Purchase Prediction](car-purchase-prediction/README.md)
 - [Titanic Survival Prediction](https://github.com/azizp128/titanic-survival-prediction-django)
 
 # NLP
