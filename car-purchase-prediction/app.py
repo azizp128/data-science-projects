@@ -39,11 +39,6 @@ def predict_purchase(age, gender, annual_salary):
         features = pd.DataFrame([[age, gender, annual_salary]], 
                               columns=['Age', 'Gender', 'AnnualSalary'])
         
-        # Debug info
-        st.write("Input features:")
-        st.write(features)
-        st.write("Model feature names:", model.feature_names_in_)
-        
         prediction = model.predict(features)
         return prediction[0]
     except Exception as e:
