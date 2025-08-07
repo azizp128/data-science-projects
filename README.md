@@ -11,6 +11,7 @@
 - [Investigating Netflix Movies](investigating-netflix-movies/README.md)
 
 # Machine Learning
+- [Hiring Decision Prediction](https://github.com/azizp128/hiring-decision-prediction)
 - [Telco Customer Churn Prediction](telco-customer-churn-prediction/notebook.ipynb)
 - [Youtube Channel Views Prediction](youtube-views-prediction/notebook.ipynb)
 - [Categorical Feature Encoding Challenge II](https://www.kaggle.com/code/azizp123/categorical-feature-encoding-challenge-ii)
@@ -19,7 +20,7 @@
 - [Predicting Credit Card Approvals](predicting-credit-card-approvals/README.md)
 - [Income Prediction](https://github.com/azizp128/income-prediction-flask)
 - [Customer Analytics: Preparing Data for Modeling](customer-analytics-preparing-data-for-modeling/README.md)
-- [Car Purchase Decision](https://github.com/azizp128/Car-Purchase-Decision-Django)
+- [Car Purchase Prediction](car-purchase-prediction/README.md)
 - [Titanic Survival Prediction](https://github.com/azizp128/titanic-survival-prediction-django)
 
 # NLP
