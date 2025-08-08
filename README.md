@@ -18,7 +18,7 @@
 - [Predicting Movie Rental Durations](predicting-movie-rental-durations/README.md)
 - [Categorical Feature Encoding Challenge](https://www.kaggle.com/code/azizp123/categorical-feature-encoding-challenge-short)
 - [Predicting Credit Card Approvals](predicting-credit-card-approvals/README.md)
-- [Income Prediction](https://github.com/azizp128/income-prediction-flask)
+- [Income Prediction](income-prediction/README.md)
 - [Customer Analytics: Preparing Data for Modeling](customer-analytics-preparing-data-for-modeling/README.md)
 - [Car Purchase Prediction](car-purchase-prediction/README.md)
 - [Titanic Survival Prediction](https://github.com/azizp128/titanic-survival-prediction-django)
