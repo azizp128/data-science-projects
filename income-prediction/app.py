@@ -11,7 +11,7 @@ from src.encoders import FrequencyEncoder
 
 # ------------------ PAGE CONFIG ------------------
 st.set_page_config(
-    page_title="Income Prediction 💰",
+    page_title="Income Prediction",
     page_icon="💰",
     layout="centered"
 )
