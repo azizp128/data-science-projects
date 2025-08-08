@@ -8,7 +8,7 @@ This project demonstrates a **machine learning pipeline** that predicts whether 
 * **Marital status**
 * **Occupation**
 * **Hours worked per week**
-* And other relevant features from the **UCI Adult Income dataset**
+* And other relevant features from the [UCI Adult Income dataset](https://archive.ics.uci.edu/dataset/2/adult)
 
 The model is built using **XGBoost** within a **scikit-learn pipeline** for preprocessing and training. It supports both **single predictions** via a form interface and **bulk predictions** via CSV uploads.
 
