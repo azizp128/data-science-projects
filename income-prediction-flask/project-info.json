@@ -1,7 +1,0 @@
-{
-    "title": "Income Prediction",
-    "description": "An experiment with machine learning model deployment using the Flask framework on Heroku & Streamlit. This project features a simple machine learning model that utilizes the Gradient Boosting Classifier algorithm to predict an employee's income.",
-    "thumbnail": "https://pimwp.s3-accelerate.amazonaws.com/2021/06/revenue-growth-concept.jpg",
-    "readme": "https://raw.githubusercontent.com/azizp128/income-prediction-flask/refs/heads/main/README.md",
-    "category": "Machine Learning"
-}
