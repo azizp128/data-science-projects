@@ -1,0 +1,6 @@
+age,workclass,fnlwgt,education,education-num,marital-status,occupation,relationship,race,gender,capital-gain,capital-loss,hours-per-week,native-country
+25,Private,226802,Bachelors,13,Never-married,Adm-clerical,Not-in-family,White,Male,0,0,40,United-States
+45,Self-emp-not-inc,89814,HS-grad,9,Married-civ-spouse,Exec-managerial,Husband,White,Male,0,0,50,United-States
+39,Private,336951,Masters,14,Divorced,Prof-specialty,Not-in-family,Black,Female,0,0,60,United-States
+28,State-gov,284582,Assoc-acdm,12,Never-married,Sales,Own-child,White,Male,0,0,40,United-States
+52,Private,160187,Some-college,10,Married-civ-spouse,Exec-managerial,Husband,White,Male,15024,0,45,United-States
