@@ -78,7 +78,7 @@ def predict(features):
 
 # ------------------ MAIN APP ------------------
 def main():
-    st.markdown("<h1 style='text-align:center'>Income Prediction 💰</h1><hr>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align:center'>Income Prediction</h1><hr>", unsafe_allow_html=True)
     age = st.number_input("Age", min_value=0, max_value=100, value=None, placeholder="Your Age")
     education = st.selectbox("Education", ["Preschool", "1st-4th", "5th-6th", "7th-8th", "9th", "10th",
                                             "11th", "12th", "HS-grad", "Some-college", "Assoc-voc",

@@ -1,6 +1,6 @@
 {
     "title": "Income Prediction",
-    "description": "An experiment with machine learning model deployment using the Flask framework on Heroku & Streamlit. This project features a simple machine learning model that utilizes the XGBoost algorithm to predict an employee's income.",
+    "description": "An experiment with machine learning model deployment using the Flask framework on Heroku & Streamlit. This project features a simple machine learning model that utilizes the XGBoost algorithm to predict an individual’s annual income.",
     "thumbnail": "https://pimwp.s3-accelerate.amazonaws.com/2021/06/revenue-growth-concept.jpg",
     "readme": "https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/income-prediction/README.md",
     "category": "Machine Learning"
