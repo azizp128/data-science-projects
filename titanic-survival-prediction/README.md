@@ -4,24 +4,22 @@ This is a Machine Learning model that utilizes Logistic Regression to predict th
 
 In addition, this project includes a web application deployed on the Heroku platform, serving as the focal point for experimenting with deploying an ML model using Django. The web application enables users to interact with the trained model and receive predictions on the survival probability of a passenger based on the information provided.
 
-# Screenshot
-![Page Screenshot](https://raw.githubusercontent.com/azizp128/titanic-survival-prediction-django/refs/heads/main/assets/screenshot.png)
-
 # How to Run
 Follow these steps to run the Django project locally:
 
-1. Install Python 3.10.7
+1. Install **Python 3.10.7**
+   
     Make sure Python is added to your system PATH.
 
-2. Navigate to the project directory
+3. Navigate to the project directory
     ```bash
     cd \path\to\this_project
 
-3. Create a virtual environment
+4. Create a virtual environment
     ```bash
     python -m venv venv
 
-4. Activate the virtual environment
+5. Activate the virtual environment
     - Windows:
         ```bash
         venv\Scripts\activate
@@ -29,17 +27,20 @@ Follow these steps to run the Django project locally:
         ```bash
         source venv/bin/activate
 
-5. Install project dependencies
+6. Install project dependencies
     ```bash
     python -m pip install -r requirements.txt
 
-6. Apply database migrations
+7. Apply database migrations
     ```bash
     python manage.py migrate
 
-7. Run the development server
+8. Run the development server
     ```bash
     python manage.py runserver
 
-8. Open the app in your browser
+9. Open the app in your browser
     Go to http://127.0.0.1:8000/ to see the running application.
+
+# Screenshot
+![Page Screenshot](https://raw.githubusercontent.com/azizp128/titanic-survival-prediction-django/refs/heads/main/assets/screenshot.png)
