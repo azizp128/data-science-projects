@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home page</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+    <!-- <link rel="stylesheet" href="../static/style.css"> -->
+</head>
+
+<body>
+    <div class="container">
+        <div class="prediction-box">
+            <h1 class="title">Titanic Survival Prediction</h1>
+            <!-- <form action="" class="prediction-form"> -->
+            <form action="{% url 'result' %}" class="prediction-form">
+                {% csrf_token %}
+                <div class="prediction-form-1">
+                    <label class="prediction-text">Passenger Class:</label>
+                    <select class="form-select" name="pclass">
+                        <option value="1">1st Class</option>
+                        <option value="2">2nd Class</option>
+                        <option value="3">3rd Class</option>
+                    </select>
+                    <br>
+                </div>
+                <div class="prediction-form-2>
+                    <label class=" prediction-text">Sex:</label>
+                    <select class="form-select" name="sex">
+                        <option value="0">Male</option>
+                        <option value="1">Female</option>
+                    </select>
+                    <br>
+                </div>
+                <div class="prediction-form-3">
+                    <label class="prediction-text">Age:</label>
+                    <input type="text" class="form-control" name="age" placeholder="Age in years" required="required">
+                    <br>
+                </div>
+                <div class="prediction-form-4">
+                    <label class="prediction-text">Sibsp:</label>
+                    <input type="text" class="form-control" name="sibsp"
+                        placeholder="Number of siblings / spouses aboard the Titanic" required="required">
+                    <br>
+                </div>
+                <div class="prediction-form-5">
+                    <label class="prediction-text">Parch:</label>
+                    <input type="text" class="form-control" name="parch"
+                        placeholder="Number of parents / children aboard the Titanic" required="required">
+                    <br>
+                </div>
+                <div class="prediction-form-6">
+                    <label class="prediction-text">Passenger Fare:</label>
+                    <input type="text" class="form-control" name="fare" placeholder="0.0 - 513.0 (Float)"
+                        required="required">
+                    <br>
+                </div>
+                <div class="prediction-form-7">
+                    <label class="prediction-text">Embark Category Cherbourg:</label>
+                    <select class="form-select" name="embC">
+                        <option value="0">True</option>
+                        <option value="1">False</option>
+                    </select>
+                    <br>
+                </div>
+                <div class="prediction-form-8">
+                    <label class="prediction-text">Embark Category Queenstown:</label>
+                    <select class="form-select" name="embQ">
+                        <option value="0">True</option>
+                        <option value="1">False</option>
+                    </select>
+                    <br>
+                </div>
+                <div class="prediction-form-9">
+                    <label class=" prediction-text">Embark Category Southampton:</label>
+                    <select class="form-select" name="embS">
+                        <option value="0">True</option>
+                        <option value="1">False</option>
+                    </select>
+                    <br>
+                </div>
+                <button class="btn" type="submit">Get Predictions</button>
+            </form>
+            <div class="result">
+                <h2>Prediction Result</h2>
+                <p class="result-text">{{ result }}</p>
+            </div>
+        </div>
+        <div class="attribution">
+            <p>Created with &#128154; by <a href="https://github.com/azizp128">Aziz Prabowo</a>
+            </p>
+        </div>
+    </div>
+    <!-- <script src="{% static 'script.js' %}"></script> -->
+    <!-- <script src="../titanicml/static/titanicml/script.js"></script> -->
+</body>
+
+</html>
