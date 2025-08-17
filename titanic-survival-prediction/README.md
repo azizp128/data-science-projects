@@ -43,4 +43,4 @@ Follow these steps to run the Django project locally:
     Go to http://127.0.0.1:8000/ to see the running application.
 
 # Screenshot
-![Page Screenshot](https://raw.githubusercontent.com/azizp128/titanic-survival-prediction-django/refs/heads/main/assets/screenshot.png)
+![Page Screenshot](https://github.com/azizp128/data-science-projects/blob/main/titanic-survival-prediction/assets/screenshot.png)
