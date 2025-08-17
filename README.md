@@ -21,7 +21,7 @@
 - [Income Prediction](income-prediction/README.md)
 - [Customer Analytics: Preparing Data for Modeling](customer-analytics-preparing-data-for-modeling/README.md)
 - [Car Purchase Prediction](car-purchase-prediction/README.md)
-- [Titanic Survival Prediction](https://github.com/azizp128/titanic-survival-prediction-django)
+- [Titanic Survival Prediction](titanic-survival-prediction/README.md)
 
 # NLP
 - [Prediksi Emosi IndoBERT](https://github.com/azizp128/prediksi-emosi-indobert)
