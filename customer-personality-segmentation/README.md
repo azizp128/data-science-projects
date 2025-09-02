@@ -1,4 +1,4 @@
-# 🔍 Background
+o# 🔍 Background
 
 A company can achieve rapid growth by understanding customer behavior, which allows it to provide better services and benefits to the right target audience. By analyzing historical marketing campaign data, this project aims to improve campaign performance and customer targeting. The main focus is to build a clustering model that groups customers based on behavioral patterns, making it easier for the company to make informed, data-driven decisions.
 
@@ -53,7 +53,7 @@ Key findings from exploratory analysis:
 - **Leverage demographics** (age, marital status, education) to craft targeted campaigns.
 - **Revenue Impact**:
 
-  - Reactivating 20% of churn-risk customers could generate an additional **Rp 9M+ GMV**.
+  - Reactivating 20% of churn-risk customers could generate an additional **Rp 92M+ GMV**.
   - Upselling 10% of mid/high spenders could add **Rp 64M+ GMV**.
   - Fully reactivating churn customers could unlock **Rp 450 GMV** (\~31% of total GMV).
 
