@@ -37,7 +37,7 @@ Key findings from exploratory analysis:
 - **Spending & Transactions**: Top spenders and frequent shoppers (>11 transactions) are far more likely to convert.
 - **Education**: Customers with higher education (Bachelor’s, Master’s, Doctorate) show better conversion and engagement.
 
-## 💡 Conclusion
+# 💡 Conclusion
 
 - The clustering model identified **4 customer clusters** with a silhouette score of **0.84** (high quality).
 - **Cluster 0** dominates with 61.4% of customers, representing the company’s main segment.
@@ -45,7 +45,7 @@ Key findings from exploratory analysis:
 - Income, age, marital status, education, and number of children are strong differentiators in predicting conversion and engagement.
 - Customers with higher spending, education, and no children are more likely to be retained and generate long-term value.
 
-## 🎯 Recommendations
+# 🎯 Recommendations
 
 - **Re-engage churn risk customers** with personalized offers and reactivation campaigns.
 - **Retain and upsell mid & high spenders** using loyalty programs and exclusive promotions.
