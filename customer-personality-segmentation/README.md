@@ -57,4 +57,4 @@ Key findings from exploratory analysis:
   - Upselling 10% of mid/high spenders could add **Rp 64M+ GMV**.
   - Fully reactivating churn customers could unlock **Rp 450 GMV** (\~31% of total GMV).
 
-[View the full project report PDF here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/customer-personality-segmentation/refs/heads/main/report.pdf)
+[View the full project report PDF here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/customer-personality-segmentation/report.pdf)
