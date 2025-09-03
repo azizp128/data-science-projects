@@ -1,5 +1,5 @@
 # Data Analysis
-- [Supplement Sales Analysis](https://docs.google.com/presentation/d/1Gw7qepyeSb50D-SZRzRGSpTDAuB4LW2Kyb6p2Ca0hiM/edit?usp=sharing)
+- [Supplement Sales Analysis](https://github.com/azizp128/data-science-projects/tree/main/supplement-sales-analysis/README.md)
 - [Telco Customer Churn Analysis](https://docs.google.com/presentation/d/1pgEPjTATiOYSCdje7S8HOFDcKOVMgBbICMu2BefwKt0/edit?usp=sharing)
 - [A/B Testing Pengaruh Frekuensi Campaign terhadap Konversi Pembukaan Akun Deposit](ab-testing-pengaruh-frekuensi-campaign-terhadap-konversi-pembukaan-akun-deposit/notebook.ipynb)
 - [Youtube Channel Dashboard Report](youtube-channel-report-dashboard/README.md)
