@@ -1,6 +1,6 @@
 # Data Analysis
 - [Supplement Sales Analysis](https://github.com/azizp128/data-science-projects/tree/main/supplement-sales-analysis/README.md)
-- [Telco Customer Churn Analysis](https://docs.google.com/presentation/d/1pgEPjTATiOYSCdje7S8HOFDcKOVMgBbICMu2BefwKt0/edit?usp=sharing)
+- [Telco Customer Churn Analysis](https://github.com/azizp128/data-science-projects/tree/main/telco-customer-churn-analysis/README.md)
 - [A/B Testing Pengaruh Frekuensi Campaign terhadap Konversi Pembukaan Akun Deposit](ab-testing-pengaruh-frekuensi-campaign-terhadap-konversi-pembukaan-akun-deposit/notebook.ipynb)
 - [Youtube Channel Dashboard Report](youtube-channel-report-dashboard/README.md)
 - [Analisis Waktu Posting Paling Populer di Reddit terkait Konflik Israel-Palestina](analisis-jam-posting/README.md)
