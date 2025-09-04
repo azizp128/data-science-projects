@@ -10,7 +10,7 @@ In the competitive telecommunications industry, retaining customers is as import
 
 # 📂 Dataset Information
 
-* **Source**: Telco Customer Churn dataset (7,043 records).
+* **Source**: [Telco Customer Churn dataset](https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/telco-customer-churn-prediction/telecom_customers_churn.csv) (7,043 records).
 * **Target Variable**: `Churn` (Yes = 1, No = 0).
 * **Features**:
 
@@ -75,4 +75,4 @@ Key insights from the analysis:
   * Increase retention by 40% in high-risk, high-bill short-term customers, saving \~\$130K net annually.
   * Boost upsell revenue by \~\$60K annually.
 
-[View the full project Jupyter Notebook here]()
+[View the full project Jupyter Notebook here](https://github.com/azizp128/data-science-projects/blob/main/telco-customer-churn-prediction/notebook.ipynb)
