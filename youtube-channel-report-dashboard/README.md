@@ -1,33 +1,47 @@
-# Objective of the Dashboard
-Dashboard ini bertujuan untuk memberikan gambaran menyeluruh mengenai performa channel YouTube dalam hal keterlibatan pengguna (engagement) dan pertumbuhan channel dalam periode waktu tertentu. Dashboard ini dirancang untuk membantu tim konten dan manajemen dalam:
-- Memantau metrik utama performa channel
-- Mengidentifikasi persebaran engagement channel
-- Mengevaluasi efektivitas konten yang dipublikasikan
+# 🔍 Background
 
-# Target Audience
-- **Content Strategy Team**: Menilai konten yang paling engaging.
-- **Marketing Team**: Memahami perilaku penonton berdasarkan lokasi & waktu.
-- **YouTube Channel Manager / Creator**: Memantau pertumbuhan subscriber dan engagement harian.
-- **Data Analyst**: Menganalisis pola interaksi dan distribusi regional.
+In the fast-growing digital media landscape, YouTube creators and managers need actionable insights to understand channel performance, optimize content strategies, and increase audience engagement. A well-structured dashboard enables stakeholders to monitor performance metrics, identify engagement patterns, and evaluate the effectiveness of published content.
 
-# Expected Metrics & Dimensions
-| Metrics (Numerik) | Dimensions (Kategori) |
-| ------------- | ------------- |
-| Views | Country Code, US State Code |
-| Video Likes / Dislikes (Added/Removed) | US State Code | 
-| User Subscription Added | |
-| User Likes Added | |
+# 🎯 Objective
 
-# Dashboard
-![dashboard image](dashboard.png)
+* Provide an overview of channel performance in terms of engagement and growth.
+* Help stakeholders monitor key performance metrics over time.
+* Identify high-engagement content and regional audience distribution.
+* Support data-driven decision-making for content strategy, marketing, and subscriber growth.
 
-# Summary Findings
-Pada bulan **April 2025**, channel YouTube menunjukkan performa yang cukup stabil dengan tren pertumbuhan positif. Sepanjang periode tersebut, channel berhasil menambah **29 subscriber baru**, mencerminkan adanya potensi pertumbuhan audiens lebih lanjut apabila didukung dengan strategi konten dan promosi yang tepat sasaran.
+# 📂 Dataset Information
 
-Dalam hal keterlibatan pengguna, total **jumlah penayangan (views)** yang tercatat mencapai **11.500**, menunjukkan adanya minat dan perhatian dari penonton terhadap konten yang dipublikasikan. Meskipun angka ini cukup signifikan, tingkat konversi penonton menjadi subscriber masih tergolong rendah, yang mengindikasikan perlunya peningkatan pada elemen seperti ajakan untuk berlangganan (call-to-action) atau kekuatan pembuka konten (hook) di awal video.
+* **Source**: YouTube Analytics (from Looker Studio).
+* **Metrics (Numerical)**:
 
-Dari sisi interaksi konten, jumlah **likes yang diberikan** pengguna mencapai **444**, sementara jumlah dislike sangat rendah dan tidak signifikan. Hal ini mengindikasikan bahwa sebagian besar audiens memberikan respon positif terhadap konten yang ditayangkan, dan kualitas konten sudah berada pada jalur yang tepat.
+  * Views
+  * Video Likes / Dislikes (added/removed)
+  * User Subscriptions Added
+  * User Likes Added
+* **Dimensions (Categorical)**:
 
-Secara geografis, distribusi penonton menunjukkan konsentrasi terbesar berasal dari beberapa negara bagian di Amerika Serikat, terutama **Utah (US-UT)** dan Wisconsin **(US-WI)**. Ini membuka peluang untuk mengembangkan strategi konten atau promosi yang lebih terarah di wilayah dengan performa tinggi tersebut.
+  * Country Code
+  * US State Code
 
-- Link to dashboard: [Youtube Channel Report](https://lookerstudio.google.com/reporting/4023a101-da90-40d9-8f34-bc9258af65b5)
+# 📊 Insight
+
+* In **April 2025**, the channel gained **29 new subscribers**, showing positive audience growth potential.
+* The channel recorded **11,500 total views**, reflecting substantial audience interest, though the **conversion rate to subscribers remains low**.
+* Engagement metrics were highly positive: **444 likes** with very few dislikes, suggesting good content quality and audience satisfaction.
+* Geographical analysis showed strong viewership from U.S. states such as **Utah (US-UT)** and **Wisconsin (US-WI)**, indicating regional hotspots for audience engagement.
+
+# 💡 Conclusion
+
+* The channel is on a positive growth trajectory with steady increases in views and subscribers.
+* While engagement metrics are strong (high likes, low dislikes), subscriber conversion remains an area for improvement.
+* Geographic concentration in specific U.S. states presents opportunities for region-focused strategies.
+
+# 📌 Recommendations
+
+1. **Strengthen Call-to-Action (CTA)**: Encourage viewers to subscribe through stronger hooks and reminders within videos.
+2. **Focus on High-Performing Regions**: Develop targeted campaigns or content tailored for audiences in Utah and Wisconsin.
+3. **Content Optimization**: Continue producing content aligned with viewer interests to maintain positive engagement.
+4. **Promotion Strategy**: Use marketing campaigns to convert high view counts into higher subscriber growth.
+5. **Continuous Monitoring**: Track subscriber growth vs. views ratio to measure improvement in conversion effectiveness.
+
+[Link to Dashboard: YouTube Channel Report](https://lookerstudio.google.com/reporting/4023a101-da90-40d9-8f34-bc9258af65b5)
