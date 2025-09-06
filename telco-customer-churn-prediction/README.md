@@ -25,7 +25,7 @@ In the competitive telecommunications industry, retaining customers is as import
   * No significant outliers detected.
 * **Feature Engineering**: Added features such as `is_long_term_customer`, `AvgMonthly`, `TenureGroup`, and `HighMonthly` to improve predictive power.
 
-# 📊 Short EDA
+# 📊 Exploratory Data Analysis
 
 Key insights from the analysis:
 
