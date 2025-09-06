@@ -1,7 +1,7 @@
 # Data Analysis
 - [Supplement Sales Analysis](https://github.com/azizp128/data-science-projects/tree/main/supplement-sales-analysis/README.md)
 - [Telco Customer Churn Analysis](https://github.com/azizp128/data-science-projects/tree/main/telco-customer-churn-analysis/README.md)
-- [A/B Testing Pengaruh Frekuensi Campaign terhadap Konversi Pembukaan Akun Deposit](ab-testing-pengaruh-frekuensi-campaign-terhadap-konversi-pembukaan-akun-deposit/notebook.ipynb)
+- [A/B Testing the Effect of Campaign Frequency on Deposit Account Opening](ab-testing-the-effect-of-campaign-frequency-on-deposit-account-opening/README.md)
 - [Youtube Channel Dashboard Report](youtube-channel-report-dashboard/README.md)
 - [Analisis Waktu Posting Paling Populer di Reddit terkait Konflik Israel-Palestina](analisis-jam-posting/README.md)
 - [Visualizing the History of Nobel Prize Winners](a-visual-history-of-nobel-prize-winners/README.md)
@@ -13,7 +13,7 @@
 # Machine Learning
 - [Hiring Decision Prediction](https://github.com/azizp128/hiring-decision-prediction)
 - [Customer Personality Segmentation](customer-personality-segmentation/README.md)
-- [Telco Customer Churn Prediction](telco-customer-churn-prediction/notebook.ipynb)
+- [Telco Customer Churn Prediction](telco-customer-churn-prediction/README.md)
 - [Youtube Channel Views Prediction](youtube-views-prediction/notebook.ipynb)
 - [Categorical Feature Encoding Challenge II](https://www.kaggle.com/code/azizp123/categorical-feature-encoding-challenge-ii)
 - [Predicting Movie Rental Durations](predicting-movie-rental-durations/README.md)
