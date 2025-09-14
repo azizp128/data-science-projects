@@ -13,6 +13,7 @@
 # Machine Learning
 - [Hiring Decision Prediction](https://github.com/azizp128/hiring-decision-prediction)
 - [Customer Personality Segmentation](customer-personality-segmentation/README.md)
+- [Customer Clicked Ads Classification](clicked-ads-prediction/README.md)
 - [Telco Customer Churn Prediction](telco-customer-churn-prediction/README.md)
 - [Youtube Channel Views Prediction](youtube-views-prediction/README.md)
 - [Categorical Feature Encoding Challenge II](https://www.kaggle.com/code/azizp123/categorical-feature-encoding-challenge-ii)
