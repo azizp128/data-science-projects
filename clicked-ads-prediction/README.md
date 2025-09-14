@@ -3,7 +3,7 @@
 A company in Indonesia wanted to evaluate the effectiveness of its online advertisement campaign. Understanding which customers are more likely to click on ads is essential for maximizing marketing ROI. By analyzing historical advertisement data, the company can identify patterns and optimize targeting strategies to reach the right audience more effectively.
 
 
-# 📌 Objective
+# 🎯 Objective
 
 * Build a classification model to predict whether a customer will click on an advertisement.
 * Explore and clean the dataset to handle missing values and encode categorical features.
@@ -54,7 +54,7 @@ Key insights from data exploration:
   * Profit improvement: **+Rp 1,410,000** (1.94× more effective).
 
 
-# 🎯 Recommendations
+# 📌 Recommendations
 
 * **Target the most responsive audience**: Focus on users spending <60 minutes daily on-site and <180 minutes on the internet.
 * **Prioritize high-performing cities**: South Jakarta, Central Jakarta, and Semarang.
