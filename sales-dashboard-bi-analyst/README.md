@@ -64,4 +64,7 @@ The analysis revealed that sales are concentrated in a few key cities and domina
     * Focus digital marketing efforts on **low-performing but high-potential cities**.
     * Conduct **local workshops or community events** (e.g., drone demos or robotics training) to boost regional awareness and sales.
 
-[View the full project report PDF here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/sales-dashboard-bi-analyst/report.pdf)
+# 📕 Full Report
+[![Report Preview](https://palankarta.com/wp-content/uploads/2020/06/DETAILED-PROJECT-REPORT-1024x576.jpg)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/sales-dashboard-bi-analyst/report.pdf)
+
+[Click the image above or click here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/sales-dashboard-bi-analyst/report.pdf)

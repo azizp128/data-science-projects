@@ -67,4 +67,7 @@ Based on the analysis and model insights, the following strategies are recommend
 
    * Integrate the model into HR systems to continuously monitor attrition risk and enable proactive management actions.
 
-[View the full project report PDF here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/employee-attrition-prediction/report.pdf)
+# 📕 Full Report
+[![Report Preview](https://palankarta.com/wp-content/uploads/2020/06/DETAILED-PROJECT-REPORT-1024x576.jpg)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/employee-attrition-prediction/report.pdf)
+
+[Click the image above or click here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/employee-attrition-prediction/report.pdf)

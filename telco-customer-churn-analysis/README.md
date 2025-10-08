@@ -2,7 +2,7 @@
 
 In the highly competitive telecommunications industry, retaining existing customers is as important as acquiring new ones. Customer churn directly impacts revenue growth, customer loyalty, and long-term brand reputation. This project aims to analyze churn drivers and provide data-driven recommendations to reduce churn, improve retention strategies, and support sustainable business growth.
 
-# 📌 Objective
+# 🎯 Objective
 
 * Identify the most significant factors influencing customer churn.
 * Analyze customer behavior patterns that differentiate churned customers from loyal ones.
@@ -43,7 +43,7 @@ Key findings from exploratory analysis:
 * Lack of support services (tech support, online security) increases churn probability.
 * Payment preferences also play a role, with some methods (e.g., Electronic Check) linked to higher churn rates.
 
-# 🎯 Recommendations
+# 📌 Recommendations
 
 1. **Promote longer-term contracts** (One-Year, Two-Year) with incentives for both new and existing customers.
 2. **Target Month-to-Month customers** with exclusive offers to encourage upgrades to longer-term plans.
@@ -54,4 +54,7 @@ Key findings from exploratory analysis:
 7. **Optimize payment methods** by addressing issues with high-churn methods (e.g., Electronic Check).
 8. **Reassess Total Charges structure** to better align with customer-perceived value, especially for high-value customers.
 
-[View the full project report PDF here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/telco-customer-churn-analysis/report.pdf)
+# 📕 Full Report
+[![Report Preview](https://palankarta.com/wp-content/uploads/2020/06/DETAILED-PROJECT-REPORT-1024x576.jpg)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/telco-customer-churn-analysis/report.pdf)
+
+[Click the image above or click here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/telco-customer-churn-analysis/report.pdf)

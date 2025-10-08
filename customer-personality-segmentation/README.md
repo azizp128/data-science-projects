@@ -2,7 +2,7 @@
 
 A company can achieve rapid growth by understanding customer behavior, which allows it to provide better services and benefits to the right target audience. By analyzing historical marketing campaign data, this project aims to improve campaign performance and customer targeting. The main focus is to build a clustering model that groups customers based on behavioral patterns, making it easier for the company to make informed, data-driven decisions.
 
-# 📌 Objective
+# 🎯 Objective
 
 - Develop a clustering model that segments customers based on demographic, financial, and behavioral features.
 - Identify high-value customer groups and potential churn risks to improve marketing effectiveness.
@@ -45,7 +45,7 @@ Key findings from exploratory analysis:
 - Income, age, marital status, education, and number of children are strong differentiators in predicting conversion and engagement.
 - Customers with higher spending, education, and no children are more likely to be retained and generate long-term value.
 
-# 🎯 Recommendations
+# 📌 Recommendations
 
 - **Re-engage churn risk customers** with personalized offers and reactivation campaigns.
 - **Retain and upsell mid & high spenders** using loyalty programs and exclusive promotions.
@@ -57,4 +57,7 @@ Key findings from exploratory analysis:
   - Upselling 10% of mid/high spenders could add **Rp 64M+ GMV**.
   - Fully reactivating churn customers could unlock **Rp 450 GMV** (\~31% of total GMV).
 
-[View the full project report PDF here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/customer-personality-segmentation/report.pdf)
+# 📕 Full Report
+[![Report Preview](https://palankarta.com/wp-content/uploads/2020/06/DETAILED-PROJECT-REPORT-1024x576.jpg)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/customer-personality-segmentation/report.pdf)
+
+[Click the image above or click here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/customer-personality-segmentation/report.pdf)
