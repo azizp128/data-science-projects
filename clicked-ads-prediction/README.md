@@ -61,4 +61,7 @@ Key insights from data exploration:
 * **Optimize product categories**: Increase ad spend on categories like **furniture**, which strongly correlates with clicks.
 * **Leverage ML-driven targeting**: Integrating the model into marketing campaigns can reduce CAC by up to **30%** and increase CTR by **15–20%**.
 
-[View the full project report PDF here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/clicked-ads-prediction/report.pdf)
+# 📕 Full Report
+[![Report Preview](https://palankarta.com/wp-content/uploads/2020/06/DETAILED-PROJECT-REPORT-1024x576.jpg)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/clicked-ads-prediction/report.pdf)
+
+[Click the image above or click here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/azizp128/data-science-projects/refs/heads/main/clicked-ads-prediction/report.pdf)
